@@ -15,7 +15,7 @@ This repository contains beginner-to-intermediate level **Object-Oriented Progra
 ---
 
 ## 🔧 Requirements
-- Python 3.6+
+- Python 3.8+
 - No external libraries required
 
 ---
